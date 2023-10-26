@@ -94,6 +94,43 @@ V5.2
 
 ---
 
-2022 - IBM Watson
+These advancements aren't only taking place in images.
+
+A similar scale of advancement is happening across all generative modalities. 
+
+---
+
+## Audio Models
+### 2022 - IBM Watson
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I6mBdcsxWt0?start=49" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+
+---
+
+2023 - ElevenLabs
+Text to Speech
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AyQqhXU6DrM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
+
+Language Models
+
+![[GPT-4 Exam Results.jpg]]
+
+---
+
+Multi Modal
+
+![[GPT-4 Visual Input.jpg]]
+
+---
+
+# Broad Impact
+
+---
+
+- Use a chart to visualize the $2.6 - $4.4 trillion impact and how it doubles AI's economic effect.
+- Caption: "Doubling the Economic Power of AI"
+
+Generative AI could add $2.6 trillion to $4.4 trillion annually to the global economy, increasing the total impact of AI by 15-40%. This is equivalent to roughly doubling AI's economic impact.
